@@ -5,11 +5,11 @@ s.summary          = "A button view used on iOS."
 s.description      = <<-DESC
 It is a button view used on iOS, which implement by Objective-C.
 DESC
-s.homepage         = "https://github.com/aizexin/AISpringButtonDemo"
+s.homepage         = "https://github.com/aizexin/AISpringButton"
 # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
-s.license          = 'MIT'
+s.license          = 'MIT License'
 s.author           = { "艾泽鑫" => "443792431@qq.com" }
-s.source           = { :git => "https://github.com/aizexin/AISpringButtonDemo.git", :tag => s.version.to_s }
+s.source           = { :git => "https://github.com/aizexin/AISpringButton.git", :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/NAME'
 
 s.platform     = :ios, '7.0'
